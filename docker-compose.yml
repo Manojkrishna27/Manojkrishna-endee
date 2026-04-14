@@ -1,6 +1,6 @@
 services:
   endee-oss:
-    image: endee-oss:latest
+image: ghcr.io/endee-io/endee:latest
     container_name: endee-oss
     ports:
       - "8080:8080"
