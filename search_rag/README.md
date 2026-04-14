@@ -93,6 +93,8 @@ internship_demo/
 - ✅ Zero-config demo
 - ✅ Clear vector DB explanation
 - ✅ Extensible to real RAG/agent apps
+## Author
+Manojkrishna M
 
 **Built with ❤️ for Endee team. Ready for production!**
 
